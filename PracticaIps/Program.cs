@@ -75,7 +75,7 @@ namespace PracticaIps
             liquidacion.Tarifa = liquidacionSubsidiado.Tarifa;
             liquidacion.ValorCuota = liquidacionSubsidiado.ValorCuota;
         }
-
+    
         static public void Consultar()
         {
             Console.Clear();
